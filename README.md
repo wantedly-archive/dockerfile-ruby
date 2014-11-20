@@ -6,8 +6,8 @@ For more information about this, please see [official one's README](https://gith
 
 ## SUPPORTED TAGS
 
-* [`2.1.5`](2.1/Dockerfile)
 * [`2.0.0-p598`](2.0/Dockerfile)
+* [`2.1.5`](2.1/Dockerfile)
 
 ## HOW TO USE
 Create a `Dockerfile` in your Ruby app project
