@@ -14,7 +14,7 @@ For more information about this, please see [official one's README](https://gith
 Create a `Dockerfile` in your Ruby app project
 
 ```
-FROM quay.io/wantedly/ruby:2.1.5
+FROM quay.io/wantedly/ruby:2.2.0
 CMD ["./your-daemon-or-script.rb"]
 ```
 
